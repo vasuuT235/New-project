@@ -1,0 +1,16 @@
+Here is a simple example of HTML code that creates a basic web page with a heading and a paragraph. 📄
+
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Web Page</title>
+</head>
+<body>
+
+  <h1>Hello, World!</h1>
+  <p>This is my first paragraph on a web page.</p>
+
+</body>
+</html>
