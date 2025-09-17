@@ -5,7 +5,7 @@ HTML
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Web Page</title>
+  <title>My second Web Page</title>
 </head>
 <body>
 
@@ -13,4 +13,5 @@ HTML
   <p>This is my first paragraph on a web page.</p>
 
 </body>
+
 </html>
